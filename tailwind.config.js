@@ -12,6 +12,12 @@ module.exports = {
         primary: '#F5F5F5',
         secondary1: '#1266DD',
         secondary2:'#F73859'
+      },
+      maxWidth:{
+        '600':'600px'
+      },
+      cursor:{
+        pointer:'pointer'
       }
     },
   },
